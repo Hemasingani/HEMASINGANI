@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm HEMASINGANI</h1>
-<h3 align="center">A passionate to work on Data Analytics</h3>
+<h1 align="center">Hi 👋, I'm HEMA SINGANI</h1>
+<h3 align="center">A passionate on Data Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
